@@ -1,0 +1,9 @@
+{
+    "httpMethod":"POST",
+    "headers":
+    {
+        "Accept":"application/json",
+        "content-type":"application/json"
+    },
+    "body":"{ \"query\": \"{ hello }\" }"
+}
